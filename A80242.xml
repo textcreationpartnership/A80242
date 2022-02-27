@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The commissioners last desires to the King, for the setling of religion with His Majesties Answer delivered on Saturday last. And his Majesties engagement to a positive answer on Munday October 9. 1648. With some other overtures betweene the King and the commissioners.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80242</idno>
+            <idno type="STC">Wing C5560</idno>
+            <idno type="STC">Thomason E467_4</idno>
+            <idno type="STC">ESTC R205226</idno>
+            <idno type="EEBO-CITATION">99864654</idno>
+            <idno type="PROQUEST">99864654</idno>
+            <idno type="VID">116886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116886)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The commissioners last desires to the King, for the setling of religion with His Majesties Answer delivered on Saturday last. And his Majesties engagement to a positive answer on Munday October 9. 1648. With some other overtures betweene the King and the commissioners.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 6 p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the generall satisfaction of moderate men,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Oct. 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Church history --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116886:1" rendition="simple:additions"/>
+            <p>THE <hi>Commiſsioners laſt Deſires to the King,</hi> FOR THE Setling of Religion WITH <hi>His Majeſties Anſwer delivered on Sa<g ref="char:EOLhyphen"/>turday laſt.</hi> And his Majeſties Engage<g ref="char:EOLhyphen"/>ment to a poſitive Anſwer on Munday <hi>October</hi> 9. 1648.</p>
+            <p>
+               <hi>With ſome other Overtures betweene the</hi> King and the Commiſſioners.</p>
+            <figure>
+               <figDesc>depiction of enthroned king with orb and scepter</figDesc>
+            </figure>
+            <p>Printed for the generall ſatisfaction of moderate men.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116886:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <head>A LETTER FROM <hi>The ISLE of WIGHT</hi> Concerning the TREATY</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Commiſſioners preſented to the King, the deſires incloſed for ſetling of Religion, deſiring his Majeſty to paſſe them. There hath been great arguing about them on both ſides, ſome of the particulars whereof I have formerly given you.</p>
+            <pb n="2" facs="tcp:116886:3"/>
+            <p>In ſumme, his Majeſty hath ſtrove much for the Biſhops, and (I hope) hath received ſatisfaction therein.</p>
+            <p>The greateſt matter herein, ſeems (now) to bee about the taking of the Covenant, wherein much hath been ſaid to ſatisfie his Majeſty.</p>
+            <p>
+               <hi>And His Majeſty hath now pro<g ref="char:EOLhyphen"/>miſed to deliver in His Poſitive An<g ref="char:EOLhyphen"/>ſwer on Munday next, by nine of the Clock.</hi>
+            </p>
+            <p>If we were but got over this rub, I beleeve there would not bee ſuch another in all the reſt.</p>
+            <p>I am perſwaded that the Biſhops, and Doctors being about his Majeſty, hath cau<g ref="char:EOLhyphen"/>ſed this long diſpute, about the Church: for they are very loath to have their Diana goe downe.</p>
+            <p>
+               <hi>Sir</hi> Peter Killigrew <hi>ſtayes here rea<g ref="char:EOLhyphen"/>dy to come away on Sunday, if his Ma<g ref="char:EOLhyphen"/>jeſty give a ſatisfactory Anſwer.</hi>
+            </p>
+            <p>
+               <hi>If His Majeſty give us but a good
+<pb n="3" facs="tcp:116886:3"/> Anſwer on Munday, I hope (yet) that there will be a good concluſion of all, to an happy peace.</hi>
+            </p>
+            <closer>
+               <dateline>Newport <date>7 October, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="proposals_regarding_religion">
+            <head>THE <hi>Commiſsioners Deſires preſented to the Kings Majeſty.</hi>
+            </head>
+            <p>THat your Majeſty, according to the lau<g ref="char:EOLhyphen"/>dable example of your Royall Father of happy memory, may be pleaſed to ſwear and ſigne the late Solemn League and Covenant; And that an Act of Parliament be paſſed, for enjoyning the taking thereof by all the Sub<g ref="char:EOLhyphen"/>jects of the Kingdome; And the Ordinan<g ref="char:EOLhyphen"/>ces concerning the maner of taking the ſame, be confirmed by Acts of Parliament, with ſuch penalties as by mutuall advice of Par<g ref="char:EOLhyphen"/>liament ſhall be agreed upon.</p>
+            <p>That a Bill be paſſed for the utter a<g ref="char:EOLhyphen"/>boliſhing &amp; taking away of all Arch-Biſhops,
+<pb n="4" facs="tcp:116886:4"/> Biſhops, their Chancellors, and Comiſſaries, Deanes, and Sub-Deanes, Deanes and Chapters, Arch-Deacons, Cannons, and Prebenda<g ref="char:EOLhyphen"/>ries; and all Chaunters, Chancellors, Treaſurers, Sub-Treaſurers, and Suc<g ref="char:EOLhyphen"/>centors, and Sacriſts, and all Vicars Chorill, and Choreſters, old Vic<g ref="char:EOLhyphen"/>ars, and new Vicars of any Cathedrall or Collegiate Church, and all other their under Officers, out of the Church of <hi>England</hi> and Dominion of <hi>Wales;</hi> And out of the Church of <hi>Ireland.</hi>
+            </p>
+            <p>That the Ordinances concerning the calling and ſitting of the Aſſem<g ref="char:EOLhyphen"/>bly of Divines, be confirmed by Act of Parliament.</p>
+            <p>That Reformation of Religion ac<g ref="char:EOLhyphen"/>cording to the Covenant, be ſetled by Act of Parliament, in ſuch man<g ref="char:EOLhyphen"/>ner
+<pb n="5" facs="tcp:116886:4"/> as both Houſes have agreed, or ſhall agree upon, after conſultation had with the Aſſembly of Divines.</p>
+            <p>That for the more effectual diſable<g ref="char:EOLhyphen"/>ing Jeſuits, Prieſts, Papiſts, and Po<g ref="char:EOLhyphen"/>piſh Recuſants from diſturbing the State, and deluding the Laws; and for the better diſcovering, and ſpeedy conviction of Popiſh Recuſants, an Oath be eſtabliſhed by Act of Parlia<g ref="char:EOLhyphen"/>ment to bee adminiſtred to them, wherein they abjure and renounce the Popes Supremacy, the Doctrine of Tranſubſtantiation, Purgatory, VVorſhipping of the Conſecrated Hoaſt, Crucifixes and Images, and all Popiſh Superſtitions and Errors; and refuſing the ſaid Oath, being tend<g ref="char:EOLhyphen"/>red in ſuch manner as ſhall be appoin<g ref="char:EOLhyphen"/>ted by the ſaid Act, to be a ſufficient Conviction of Popiſh Recuſancy.</p>
+            <pb n="6" facs="tcp:116886:5"/>
+            <p>An Act or Acts of Parliament for educa<g ref="char:EOLhyphen"/>tion of the Children of Papiſts by Prote<g ref="char:EOLhyphen"/>ſtants, in the Proteſtant Religion.</p>
+            <p>An Act or Acts for the true Leavie of the Penalties againſt them, which penalties to be leavied and diſpoſed in ſuch manner as both Houſes ſhall agree on, wherein to be provided that His Majeſty ſhal have no loſſe.</p>
+            <p>That an Act or Acts bee paſſed in Parlia<g ref="char:EOLhyphen"/>ment, wherby the practiſes of Papiſts againſt the State may be prevented, and the Lawes againſt them duly executed, and a ſtricter courſe taken for to prevent the Saying or Hearing of Maſſe in the Court, or any o<g ref="char:EOLhyphen"/>ther part of this Kingdome, or the King<g ref="char:EOLhyphen"/>dome of <hi>Ireland.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
